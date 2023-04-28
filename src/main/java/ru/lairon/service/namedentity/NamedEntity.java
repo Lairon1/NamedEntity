@@ -1,4 +1,4 @@
-package ru.lairon.services.namedentity;
+package ru.lairon.service.namedentity;
 
 import java.util.UUID;
 

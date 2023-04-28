@@ -1,6 +1,6 @@
-package ru.lairon.services.namedentity.impl;
+package ru.lairon.service.namedentity.impl;
 
-import ru.lairon.services.namedentity.NamedEntity;
+import ru.lairon.service.namedentity.NamedEntity;
 
 import java.util.Objects;
 import java.util.UUID;
